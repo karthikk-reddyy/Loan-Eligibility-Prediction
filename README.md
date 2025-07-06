@@ -1,4 +1,6 @@
 🏦 Loan Eligibility Prediction
+
+
 This is a Streamlit web application that predicts whether a loan will be approved or rejected based on user inputs such as income, loan amount, CIBIL score, and other financial factors. 
 The app uses a pre-trained machine learning model.
 🔧 Features
