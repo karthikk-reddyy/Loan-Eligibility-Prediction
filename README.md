@@ -8,29 +8,53 @@ The app uses a pre-trained machine learning model.
 
 🔧 Features
 ✅ Interactive user interface using Streamlit
+
+
 ✅ Inputs include education, employment status, annual income, loan amount, and CIBIL score
+
+
 ✅ Predicts loan approval or rejection using a trained ML model
+
+
 ✅ Displays results in an intuitive manner
 
 
 
 🛠️ Technologies Used
 Python
+
+
 Streamlit
+
+
 Pandas
+
+
 Scikit-learn
+
+
 Pickle
 
 
 3. Add Model and Scaler Files
+
+ 
 Make sure the following files are in the same directory:
+
+
 model.pkl: Trained machine learning model
+
+
 scaler.pkl: Scaler used during model training
 
 
 
 🔮 Model Output
+
+
 Loan is Approved
+
+
 Loan is Rejected
 
 
